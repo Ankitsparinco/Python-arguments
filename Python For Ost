@@ -1,8 +1,0 @@
-def calculate(a+b,c=10):
-    return(a*b+c)
-    
- #main Program 
- x=int(input("Enter a Value"))
- y=int(input("Enter b Value"))
- z=int(input("Enter c Value"))
- print("Sum of 3 Nos is=",calculate(z,x,y)
